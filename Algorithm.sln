@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFS", "DFS\DFS.csproj", "{75B80B66-C121-4A0B-BD09-275CE702E22C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BFS", "BFS\BFS.csproj", "{6C1DC83E-EFE1-44E0-BA57-14FE744C4502}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{75B80B66-C121-4A0B-BD09-275CE702E22C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75B80B66-C121-4A0B-BD09-275CE702E22C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75B80B66-C121-4A0B-BD09-275CE702E22C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C1DC83E-EFE1-44E0-BA57-14FE744C4502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C1DC83E-EFE1-44E0-BA57-14FE744C4502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C1DC83E-EFE1-44E0-BA57-14FE744C4502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C1DC83E-EFE1-44E0-BA57-14FE744C4502}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
